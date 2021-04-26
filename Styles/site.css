@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 body {
-  background-image: url(/Styles/backgroundimage.jpg);
+  background-image: url(Styles/backgroundimage.jpg);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
